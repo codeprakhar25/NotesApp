@@ -2,7 +2,7 @@ import React from 'react'
 
 const routes = () => {
   return (
-    <div>routes</div>
+    <Text>routes</Text>
   )
 }
 
